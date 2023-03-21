@@ -1,0 +1,81 @@
+body{
+    vertical-align: middle;
+}
+
+#giris{
+    width: 400px;
+    margin-top: 0px;
+}
+
+p{
+    text-align: center;
+    align-items: center;
+}
+
+button{
+    margin: 5px;
+    margin-top: 10px;
+  
+}
+
+.buttons{
+    text-align: center;
+}
+
+.resim {
+    text-align: center;
+}
+
+#resim{
+    margin: auto;
+}
+
+.kapsam{
+    align-items: center;
+    width: 1200px;
+    min-height: 700px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#icerik {
+    width: 1200px;
+    background-color: rgb(214, 214, 214);
+    height: auto;
+}
+
+.div-group{
+    float: left;
+    display: flex;
+    margin-top: 3px;
+}
+
+.column1{
+    background-color: #7de5da;
+    width: 400px;
+    height: 125px;
+    left: 0px;
+    margin: auto;
+    padding: 10px;
+    margin-right: 5px;
+    padding-top: 25px;
+    
+   
+}
+
+.column2{
+    background-color: #70cbc2;
+    height: 125px;
+    width: 200px;
+    margin-right: 5px;
+    padding-top: 15px;
+}
+
+.column3{
+    background-color: #62b3aa;
+    height: 125px;
+    width: 590px;
+    padding-top: 1px;
+}
